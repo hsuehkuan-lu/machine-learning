@@ -2,3 +2,4 @@ jupyterlab
 scikit-learn
 numpy
 pandas
+jupyterlab-git
